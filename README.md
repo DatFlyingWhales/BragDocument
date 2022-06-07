@@ -87,5 +87,4 @@
 - Learn more about the business of a project
 
 ### Outside work
-Finish ![image](https://user-images.githubusercontent.com/91709038/172402131-e2797588-af66-4ad8-820f-921da830d420.png)
-
+Finish this course ![image](https://user-images.githubusercontent.com/91709038/172402131-e2797588-af66-4ad8-820f-921da830d420.png)
